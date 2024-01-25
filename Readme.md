@@ -9,11 +9,12 @@ Articles:
 
 ## Tools
 
-PyCaret
-H20 AutoML
-TPOT
-Auto-sklearn
-AutoKeras
-AutoViML
-AutoPyTorch
+* PyCaret
+* H20 AutoML
+* TPOT
+* Auto-sklearn
+* AutoKeras
+* AutoViML
+* AutoPyTorch
+
 
